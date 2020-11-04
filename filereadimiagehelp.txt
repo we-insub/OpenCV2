@@ -1,0 +1,16 @@
+Open CV만들기
+conda env list  가상환경 만든 리스트
+conda creat -n opencv4 python=3.7
+conda activate opencv4   가상환경 입장
+pip pip install opencv-python==4..4.0 0.4.0 파이썬 오픈씨브이잡고
+
+파이참 뉴 프로젝트 오픈씨브이 만들고
+파이썬 인터프리터 오픈씨브이 4open
+new-python file- 
+인터프리터 변경 파일 세팅에서 인터프리터 가상환경을 변경할수 있다.
+
+
+명령어 입력 하면서 레나라는 파일 불러내기 PDF 19페이지
+칼라이미지 불러오는것을 읽는것을 보는것
+
+
